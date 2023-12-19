@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cube_3d/static/css/main.e3a7a24e.css",
+    "main.js": "/cube_3d/static/js/main.df27cb09.js",
+    "index.html": "/cube_3d/index.html",
+    "main.e3a7a24e.css.map": "/cube_3d/static/css/main.e3a7a24e.css.map",
+    "main.df27cb09.js.map": "/cube_3d/static/js/main.df27cb09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3a7a24e.css",
+    "static/js/main.df27cb09.js"
+  ]
+}
