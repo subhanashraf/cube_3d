@@ -56,7 +56,7 @@ export default function App() {
         new THREE.PlaneGeometry( 0.26, 0.26 ),
     ]
     return(
-        <Canvas Camera={{ position: [0, 0, 2] }}>
+        <Canvas camera={{ position: [0, 5, 10] }}>
        <Plane position={[0.31,1.12,-0.467]} name='a' object={object3} color="#E7E7E7"rotation={[0, 109.96, 0]}/>
       <Plane position={[0,1.12,-0.467]} name='b' object={object3} color="#E7E7E7"rotation={[0, 109.96, 0]}/>
       <Plane position={[-0.31,1.12,-0.467]} name='c' object={object3} color="#E7E7E7"rotation={[0, 109.96, 0]}/>
